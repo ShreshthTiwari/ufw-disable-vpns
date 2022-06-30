@@ -3651,7 +3651,6 @@ sudo ufw deny from 0.0.0.0 to 46.161.195.102
 sudo ufw deny from 0.0.0.0 to 154.13.5.41
 sudo ufw deny from 0.0.0.0 to 149.5.37.193
 sudo ufw deny from 0.0.0.0 to 185.82.98.2
-sudo ufw deny from 0.0.0.0 to 159.65.133.1750
 sudo ufw deny from 0.0.0.0 to 114.4.104.254
 sudo ufw deny from 0.0.0.0 to 104.37.102.245
 sudo ufw deny from 0.0.0.0 to 61.153.251.150
